@@ -1,0 +1,1 @@
+In functie de tipul imaginii(text,forme simple), programul returneaza coordonatele punctelor cheie din forma/text. Punctele se salveaza in fisierul coordonate.txt)
